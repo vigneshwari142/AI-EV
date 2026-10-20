@@ -1,0 +1,94 @@
+**2014 Acura ILX – Sustainability & Emissions Final Report**  
+*Prepared by the Lead Automotive Sustainability Consultant*  
+
+---
+
+## 1. Executive Summary
+- **Vehicle:** 2014 Acura ILX, 2.0 L I4, gasoline (fuel‑type “Z”), automatic 5‑speed (AS5).  
+- **Class:** Compact sedan.  
+- **Key performance numbers** (manufacturer/standard test cycle):  
+  - **Combined fuel consumption:** 8.5 L / 100 km ≈ 33 MPG (U.S.).  
+  - **City:** 9.9 L / 100 km.  
+  - **Highway:** 6.7 L / 100 km.  
+  - **Tail‑pipe CO₂:** 196 g / km.  
+- **Illustrative Eco‑Score:** **4.2 / 10** (moderate impact).  
+- **Overall assessment:** The ILX delivers fuel‑efficiency typical for a 2.0 L gasoline compact sedan of its era. Real‑world emissions can be reduced through driver behavior, tire care, and weight/aerodynamic management. Long‑term carbon reductions are achievable by transitioning to a hybrid/EV or by reducing total vehicle kilometres.
+
+---
+
+## 2. Overall Environmental Impact
+| Aspect | Value | Interpretation |
+|--------|-------|----------------|
+| **Fuel consumption (combined)** | 8.5 L / 100 km (33 MPG) | Average for 2014 compact gasoline sedans; not a high‑efficiency model, but not a fuel‑guzzler. |
+| **CO₂ emissions (tail‑pipe)** | 196 g / km | Equivalent to ~2.9 t CO₂ per 15 000 km driven annually. |
+| **Eco‑Score (illustrative)** | 4.2 / 10 (Moderate) | Weighted 70 % CO₂ + 30 % fuel use; serves as a comparative, not regulatory, indicator. |
+| **Lifecycle coverage** | Tail‑pipe only | Does **not** include upstream fuel production, vehicle manufacturing, or end‑of‑life impacts. |
+
+The vehicle’s operational footprint places it in the **moderate** impact tier—better than larger, less‑efficient models, but behind modern hybrids or electric vehicles.
+
+---
+
+## 3. Fuel Efficiency Analysis
+- **Combined consumption (8.5 L / 100 km)** translates to **33 MPG** – a typical figure for a naturally‑aspirated 2.0 L engine in a compact sedan.  
+- **City vs. Highway:**  
+  - City: 9.9 L / 100 km (≈ 24 MPG) – ~48 % higher than highway due to stop‑and‑go conditions.  
+  - Highway: 6.7 L / 100 km (≈ 35 MPG) – reflects the engine’s more efficient steady‑state operation.  
+- **Key drivers of the observed gap:** frequent acceleration, idling, and lower average speeds in urban traffic.  
+- **Potential fuel‑saving actions (behavioral):**  
+  - Cruise control on highways, gentle acceleration, early coasting, maintaining steady speeds ≤ 90 km/h.  
+  - Proper tire inflation and low‑rolling‑resistance tires.  
+  - Reducing excess weight and aerodynamic drag (roof racks, open windows).  
+
+These measures can realistically shave **3–5 %** off real‑world fuel use, moving combined consumption toward **8.0 L / 100 km** (≈ 35 MPG) for disciplined drivers.
+
+---
+
+## 4. CO₂ Emission Analysis
+- **Reported figure:** **196 g CO₂ / km** – derived from the certified fuel consumption (8.5 L / 100 km) and the carbon content of gasoline (≈ 2.31 kg CO₂ / L).  
+- **Implications:**  
+  - **Greenhouse‑gas impact:** Each kilometre adds 196 g of CO₂ to the atmosphere; at 15 000 km/yr this equals ~2.9 t CO₂.  
+  - **Proxy for other pollutants:** Higher fuel burn also means higher CO, NOₓ, and particulate emissions, affecting local air quality.  
+- **Factors that can raise the real‑world value:** aggressive driving, heavy loads, poor tire pressure, cold weather, uphill routes, and sub‑optimal maintenance.  
+- **Factors that can lower it:** smooth driving, proper maintenance, low‑rolling‑resistance tires, reduced vehicle weight, and moderate speeds.  
+
+Because the figure is a **test‑cycle** measurement, actual emissions may be **higher** in city traffic or **lower** on long, steady highway trips.
+
+---
+
+## 5. Environment‑Friendly? **Depends**  
+**Reasoning**  
+
+| Yes | No | Depends |
+|-----|-----|---------|
+| • The ILX meets or exceeds the minimum fuel‑efficiency standards for its 2014 model year. | • Tail‑pipe CO₂ of 196 g / km is moderate; many newer hybrids achieve < 100 g / km. | • Real‑world emissions are highly sensitive to driver behavior, maintenance, and load. With disciplined driving the vehicle can approach the lower end of its class; with aggressive use it can be significantly worse. |
+
+**Conclusion:** The vehicle is **environmentally acceptable** for a conventional gasoline compact sedan, but it is **not** a low‑impact option compared with modern hybrid or electric alternatives. Its overall friendliness hinges on how it is driven and maintained.
+
+---
+
+## 6. Three Emission‑Reduction Recommendations
+| # | Recommendation | How it reduces emissions | Implementation timeline |
+|---|----------------|--------------------------|--------------------------|
+| **1** | **Adopt smoother, lower‑speed driving** (gentle acceleration, coasting, keep ≤ 90 km/h on highways) | Lowers engine load and aerodynamic drag; typical 3–5 % fuel/CO₂ reduction. | Immediate – change driving habits on the next trip. |
+| **2** | **Maintain optimal tire pressure & use low‑rolling‑resistance tires** (check monthly, inflate to manufacturer spec, replace worn tires) | Reduces rolling resistance; each 5 psi under‑inflation can raise fuel use ~1 %. Proper pressure can save ~0.2 L / 100 km. | Immediate for pressure check; tire replacement when due (≈ 3–4 years). |
+| **3** | **Reduce vehicle weight & aerodynamic drag** (remove roof racks, spare tire if safe, avoid unnecessary cargo, keep windows closed at highway speeds) | Every 100 kg removed improves fuel economy 0.5–1 %; closing windows reduces drag‑related fuel penalty ~0.2 L / 100 km. | Immediate – clear out excess items before the next drive. |
+
+These actions require **no capital outlay** and can be started today.
+
+---
+
+## 7. Eco‑Friendliness Score (Illustrative)
+- **Score:** **4.2 / 10**  
+- **Methodology:** Weighted average of 70 % CO₂ component (196 g / km) and 30 % fuel‑consumption component (8.5 L / 100 km).  
+- **Note:** This is an **illustrative** figure created for comparative purposes only; it is **not** an official regulatory rating or certification.
+
+---
+
+## 8. Final Conclusion
+The 2014 Acura ILX delivers fuel‑efficiency and CO₂ emissions that are **average for its class and era**. Its **moderate** Eco‑Score reflects a respectable but not exemplary environmental performance.  
+
+- **Short‑term:** Drivers can achieve measurable emission cuts (≈ 3–5 % fuel reduction) by adopting smoother driving, keeping tires properly inflated, and minimizing weight/aerodynamic drag.  
+- **Mid‑term:** Regular maintenance and low‑rolling‑resistance tires will preserve the manufacturer‑quoted 8.5 L / 100 km figure over the vehicle’s remaining life.  
+- **Long‑term:** For a substantial carbon‑footprint reduction, consider replacing the ILX with a hybrid or plug‑in electric vehicle, or reduce total kilometres through car‑sharing, public transit, or active travel.  
+
+By implementing the three practical recommendations now and planning for a cleaner powertrain in the future, the owner can move the ILX from a **moderate‑impact** status toward a **lower‑impact** mobility solution while still meeting personal transportation needs.
